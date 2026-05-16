@@ -1,8 +1,9 @@
-# Reaper's Haven - Collection with all kinds of useful stuff
+# Reaper's Haven - collection with all kinds of useful stuff
 
 ## Website:
-https://reapers-haven.pages.dev/
+https://lordacid.codeberg.page/reapers-haven
 
-## Gitlab repo:
-https://gitlab.com/reapers-project/reapers-haven
+## Gitlab:
+removed. moved to codeberg:
+https://codeberg.org/LordAcid/reapers-haven
 
